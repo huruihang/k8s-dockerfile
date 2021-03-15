@@ -1,1 +1,1 @@
-# kube-dockerfile
+# k8s-dockerfile
